@@ -1,0 +1,16 @@
+{
+  "name": "user-shell",
+  "version": "1.0.0",
+  "description": "FIXME: Write a one-line description of your library/project.",
+  "author": "bulavitchi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastLabs/user-shell/issues"
+  },
+  "homepage": "https://github.com/FastLabs/user-shell#readme",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.9",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
